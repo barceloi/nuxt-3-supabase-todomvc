@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- Remove this component to get started! -->
-    <NuxtWelcome />
+    <h1>Una todolist 🌻osa</h1>
   </div>
 </template>
